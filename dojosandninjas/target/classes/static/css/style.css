@@ -1,0 +1,16 @@
+.button{
+	margin-top: 15px;
+}
+.index{
+	display:flex;
+	justify-content: space-evenly;
+}
+.form{
+	display:flex;
+	flex-direction: column;
+	align-content: center;
+	font-size: 1.5em;
+}
+.dojos{
+	width: 30%;
+}
